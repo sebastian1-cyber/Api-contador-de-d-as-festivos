@@ -1,0 +1,11 @@
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\ApiDiasFestivosDominio\bin\Debug\net10.0\ApiDiasFestivosDominio.deps.json
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\ApiDiasFestivosDominio\bin\Debug\net10.0\ApiDiasFestivosDominio.dll
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\ApiDiasFestivosDominio\bin\Debug\net10.0\ApiDiasFestivosDominio.pdb
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\ApiDiasFestivosDominio\obj\Debug\net10.0\ApiDiasFestivosDominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\ApiDiasFestivosDominio\obj\Debug\net10.0\ApiDiasFestivosDominio.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\ApiDiasFestivosDominio\obj\Debug\net10.0\ApiDiasFestivosDominio.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\ApiDiasFestivosDominio\obj\Debug\net10.0\ApiDiasFestivosDominio.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\ApiDiasFestivosDominio\obj\Debug\net10.0\ApiDiasFestivosDominio.dll
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\ApiDiasFestivosDominio\obj\Debug\net10.0\refint\ApiDiasFestivosDominio.dll
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\ApiDiasFestivosDominio\obj\Debug\net10.0\ApiDiasFestivosDominio.pdb
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\ApiDiasFestivosDominio\obj\Debug\net10.0\ref\ApiDiasFestivosDominio.dll

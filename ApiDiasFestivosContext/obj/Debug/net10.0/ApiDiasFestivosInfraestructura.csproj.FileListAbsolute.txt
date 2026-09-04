@@ -1,0 +1,5 @@
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\ApiDiasFestivosContext\obj\Debug\net10.0\ApiDiasFestivosInfraestructura.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\ApiDiasFestivosContext\obj\Debug\net10.0\ApiDiasFestivosInfraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\ApiDiasFestivosContext\obj\Debug\net10.0\ApiDiasFestivosInfraestructura.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\ApiDiasFestivosContext\obj\Debug\net10.0\ApiDiasFestivosInfraestructura.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\ApiDiasFestivosContext\obj\Debug\net10.0\ApiDiasFestivosInfraestructura.csproj.CoreCompileInputs.cache
