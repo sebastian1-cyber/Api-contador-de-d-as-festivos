@@ -9,3 +9,6 @@ C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\ApiDiasFestivosDom
 C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\ApiDiasFestivosDominio\obj\Debug\net10.0\refint\ApiDiasFestivosDominio.dll
 C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\ApiDiasFestivosDominio\obj\Debug\net10.0\ApiDiasFestivosDominio.pdb
 C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\ApiDiasFestivosDominio\obj\Debug\net10.0\ref\ApiDiasFestivosDominio.dll
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\ApiDiasFestivosDominio\obj\Debug\net10.0\ApiDiasFestivosDominio.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\ApiDiasFestivosDominio\obj\Debug\net10.0\ApiDiasFestivosDominio.sourcelink.json
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\ApiDiasFestivosDominio\obj\Debug\net10.0\ApiDiasF.AA119E3F.Up2Date

@@ -20,6 +20,9 @@ namespace ApiDiasFestivosDominio
         public int Dia { get; set; }
         [Column("Mes")]
         public int Mes { get; set; }
+        [Column("Año")]
+        public int Año { get; set; }
+
         [Column("DiasPascua")]
         public int DiasPascua { get; set; }
         [Column("IdPais")]

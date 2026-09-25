@@ -3,30 +3,67 @@
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\ApiDiasFestivos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2ADB2C7D-2940-F34C-DA37-1C29FD4914E9}|..\\ApiDiasFestivosContext\\ApiDiasFestivosInfraestructura.csproj|c:\\users\\user\\onedrive\\desktop\\sebastian_prog\\herramientas _3\\apidiasfestivoscontext\\persistencias\\contadordiasfestivoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2ADB2C7D-2940-F34C-DA37-1C29FD4914E9}|..\\ApiDiasFestivosContext\\ApiDiasFestivosInfraestructura.csproj|c:\\users\\user\\onedrive\\desktop\\sebastian_prog\\herramientas _3\\apidiasfestivoscontext\\repositorios\\tipofestivorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ADB2C7D-2940-F34C-DA37-1C29FD4914E9}|..\\ApiDiasFestivosContext\\ApiDiasFestivosInfraestructura.csproj|c:\\users\\user\\onedrive\\desktop\\sebastian_prog\\herramientas _3\\apidiasfestivoscontext\\apidiasfestivosinfraestructura.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2ADB2C7D-2940-F34C-DA37-1C29FD4914E9}|..\\ApiDiasFestivosContext\\ApiDiasFestivosInfraestructura.csproj|c:\\users\\user\\onedrive\\desktop\\sebastian_prog\\herramientas _3\\apidiasfestivoscontext\\repositorios\\paisrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF591C77-A264-6F1F-FFDD-568E812AEAD2}|..\\ApiDiasFestivosDominio\\ApiDiasFestivosDominio.csproj|c:\\users\\user\\onedrive\\desktop\\sebastian_prog\\herramientas _3\\apidiasfestivosdominio\\apidiasfestivosdominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF591C77-A264-6F1F-FFDD-568E812AEAD2}|..\\ApiDiasFestivosDominio\\ApiDiasFestivosDominio.csproj|c:\\users\\user\\onedrive\\desktop\\sebastian_prog\\herramientas _3\\apidiasfestivosdominio\\tipofestivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF591C77-A264-6F1F-FFDD-568E812AEAD2}|..\\ApiDiasFestivosDominio\\ApiDiasFestivosDominio.csproj|c:\\users\\user\\onedrive\\desktop\\sebastian_prog\\herramientas _3\\apidiasfestivosdominio\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2ADB2C7D-2940-F34C-DA37-1C29FD4914E9}|..\\ApiDiasFestivosContext\\ApiDiasFestivosInfraestructura.csproj|c:\\users\\user\\onedrive\\desktop\\sebastian_prog\\herramientas _3\\apidiasfestivoscontext\\repositorios\\festivorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF591C77-A264-6F1F-FFDD-568E812AEAD2}|..\\ApiDiasFestivosDominio\\ApiDiasFestivosDominio.csproj|c:\\users\\user\\onedrive\\desktop\\sebastian_prog\\herramientas _3\\apidiasfestivosdominio\\festivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4EA323A-70B3-FCE2-14B2-84A8C5A43330}|ApiDiasFestivos.csproj|c:\\users\\user\\onedrive\\desktop\\sebastian_prog\\herramientas _3\\apidiasfestivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4EA323A-70B3-FCE2-14B2-84A8C5A43330}|ApiDiasFestivos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C7E4E38-8CC4-480A-B2D9-06B1ABECC169}|..\\apidiasfestivosCore\\apidiasfestivos.Core.csproj|c:\\users\\user\\onedrive\\desktop\\sebastian_prog\\herramientas _3\\apidiasfestivoscore\\repositorios\\ifestivosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4EA323A-70B3-FCE2-14B2-84A8C5A43330}|ApiDiasFestivos.csproj|c:\\users\\user\\onedrive\\desktop\\sebastian_prog\\herramientas _3\\apidiasfestivos\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4EA323A-70B3-FCE2-14B2-84A8C5A43330}|ApiDiasFestivos.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C7E4E38-8CC4-480A-B2D9-06B1ABECC169}|..\\apidiasfestivosCore\\apidiasfestivos.Core.csproj|c:\\users\\user\\onedrive\\desktop\\sebastian_prog\\herramientas _3\\apidiasfestivoscore\\servicios\\ifestivoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF591C77-A264-6F1F-FFDD-568E812AEAD2}|..\\ApiDiasFestivosDominio\\ApiDiasFestivosDominio.csproj|c:\\users\\user\\onedrive\\desktop\\sebastian_prog\\herramientas _3\\apidiasfestivosdominio\\dtos\\validacionfechadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF591C77-A264-6F1F-FFDD-568E812AEAD2}|..\\ApiDiasFestivosDominio\\ApiDiasFestivosDominio.csproj|c:\\users\\user\\onedrive\\desktop\\sebastian_prog\\herramientas _3\\apidiasfestivosdominio\\dtos\\festivosdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADB2C7D-2940-F34C-DA37-1C29FD4914E9}|..\\ApiDiasFestivosContext\\ApiDiasFestivosInfraestructura.csproj|c:\\users\\user\\onedrive\\desktop\\sebastian_prog\\herramientas _3\\apidiasfestivoscontext\\persistencias\\contadordiasfestivoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7E4E38-8CC4-480A-B2D9-06B1ABECC169}|..\\apidiasfestivosCore\\apidiasfestivos.Core.csproj|c:\\users\\user\\onedrive\\desktop\\sebastian_prog\\herramientas _3\\apidiasfestivoscore\\repositorios\\ipaisrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7E4E38-8CC4-480A-B2D9-06B1ABECC169}|..\\apidiasfestivosCore\\apidiasfestivos.Core.csproj|c:\\users\\user\\onedrive\\desktop\\sebastian_prog\\herramientas _3\\apidiasfestivoscore\\repositorios\\itipofestivorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7E4E38-8CC4-480A-B2D9-06B1ABECC169}|..\\apidiasfestivosCore\\apidiasfestivos.Core.csproj|c:\\users\\user\\onedrive\\desktop\\sebastian_prog\\herramientas _3\\apidiasfestivoscore\\servicios\\ipaisservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7E4E38-8CC4-480A-B2D9-06B1ABECC169}|..\\apidiasfestivosCore\\apidiasfestivos.Core.csproj|c:\\users\\user\\onedrive\\desktop\\sebastian_prog\\herramientas _3\\apidiasfestivoscore\\servicios\\itipofestivoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF591C77-A264-6F1F-FFDD-568E812AEAD2}|..\\ApiDiasFestivosDominio\\ApiDiasFestivosDominio.csproj|c:\\users\\user\\onedrive\\desktop\\sebastian_prog\\herramientas _3\\apidiasfestivosdominio\\tipofestivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF591C77-A264-6F1F-FFDD-568E812AEAD2}|..\\ApiDiasFestivosDominio\\ApiDiasFestivosDominio.csproj|c:\\users\\user\\onedrive\\desktop\\sebastian_prog\\herramientas _3\\apidiasfestivosdominio\\apidiasfestivosdominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADB2C7D-2940-F34C-DA37-1C29FD4914E9}|..\\ApiDiasFestivosContext\\ApiDiasFestivosInfraestructura.csproj|c:\\users\\user\\onedrive\\desktop\\sebastian_prog\\herramientas _3\\apidiasfestivoscontext\\apidiasfestivosinfraestructura.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF591C77-A264-6F1F-FFDD-568E812AEAD2}|..\\ApiDiasFestivosDominio\\ApiDiasFestivosDominio.csproj|c:\\users\\user\\onedrive\\desktop\\sebastian_prog\\herramientas _3\\apidiasfestivosdominio\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A486B2-EA11-FF1B-4446-47841369F50D}|Presentacion.csproj|c:\\users\\user\\onedrive\\desktop\\sebastian_prog\\herramientas _3\\apidiasfestivos\\presentacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D5A486B2-EA11-FF1B-4446-47841369F50D}|Presentacion.csproj|solutionrelative:presentacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A486B2-EA11-FF1B-4446-47841369F50D}|Presentacion.csproj|c:\\users\\user\\onedrive\\desktop\\sebastian_prog\\herramientas _3\\apidiasfestivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A486B2-EA11-FF1B-4446-47841369F50D}|Presentacion.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A486B2-EA11-FF1B-4446-47841369F50D}|Presentacion.csproj|c:\\users\\user\\onedrive\\desktop\\sebastian_prog\\herramientas _3\\apidiasfestivos\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A486B2-EA11-FF1B-4446-47841369F50D}|Presentacion.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,36 +73,193 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FestivoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\ApiDiasFestivosContext\\Repositorios\\FestivoRepositorio.cs",
+              "RelativeDocumentMoniker": "..\\ApiDiasFestivosContext\\Repositorios\\FestivoRepositorio.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\ApiDiasFestivosContext\\Repositorios\\FestivoRepositorio.cs",
+              "RelativeToolTip": "..\\ApiDiasFestivosContext\\Repositorios\\FestivoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T01:09:00.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IFestivosRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\apidiasfestivosCore\\repositorios\\IFestivosRepositorio.cs",
+              "RelativeDocumentMoniker": "..\\apidiasfestivosCore\\repositorios\\IFestivosRepositorio.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\apidiasfestivosCore\\repositorios\\IFestivosRepositorio.cs",
+              "RelativeToolTip": "..\\apidiasfestivosCore\\repositorios\\IFestivosRepositorio.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T01:09:52.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Festivo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\ApiDiasFestivosDominio\\Festivo.cs",
+              "RelativeDocumentMoniker": "..\\ApiDiasFestivosDominio\\Festivo.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\ApiDiasFestivosDominio\\Festivo.cs",
+              "RelativeToolTip": "..\\ApiDiasFestivosDominio\\Festivo.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T03:21:38.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFestivoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\apidiasfestivosCore\\servicios\\IFestivoServicio.cs",
+              "RelativeDocumentMoniker": "..\\apidiasfestivosCore\\servicios\\IFestivoServicio.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\apidiasfestivosCore\\servicios\\IFestivoServicio.cs",
+              "RelativeToolTip": "..\\apidiasfestivosCore\\servicios\\IFestivoServicio.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wBgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T00:21:10.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ApiDiasFestivosInfraestructura.csproj",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\ApiDiasFestivosContext\\ApiDiasFestivosInfraestructura.csproj",
-              "RelativeDocumentMoniker": "..\\ApiDiasFestivosContext\\ApiDiasFestivosInfraestructura.csproj",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\ApiDiasFestivosContext\\ApiDiasFestivosInfraestructura.csproj",
-              "RelativeToolTip": "..\\ApiDiasFestivosContext\\ApiDiasFestivosInfraestructura.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-04T03:31:05.431Z"
+              "Title": "PaisRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\ApiDiasFestivosContext\\Repositorios\\PaisRepositorio.cs",
+              "RelativeDocumentMoniker": "..\\ApiDiasFestivosContext\\Repositorios\\PaisRepositorio.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\ApiDiasFestivosContext\\Repositorios\\PaisRepositorio.cs",
+              "RelativeToolTip": "..\\ApiDiasFestivosContext\\Repositorios\\PaisRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T15:35:05.448Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TipoFestivoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\ApiDiasFestivosContext\\Repositorios\\TipoFestivoRepositorio.cs",
+              "RelativeDocumentMoniker": "..\\ApiDiasFestivosContext\\Repositorios\\TipoFestivoRepositorio.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\ApiDiasFestivosContext\\Repositorios\\TipoFestivoRepositorio.cs",
+              "RelativeToolTip": "..\\ApiDiasFestivosContext\\Repositorios\\TipoFestivoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T23:08:29.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValidacionFechaDTo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\ApiDiasFestivosDominio\\DTos\\ValidacionFechaDTo.cs",
+              "RelativeDocumentMoniker": "..\\ApiDiasFestivosDominio\\DTos\\ValidacionFechaDTo.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\ApiDiasFestivosDominio\\DTos\\ValidacionFechaDTo.cs",
+              "RelativeToolTip": "..\\ApiDiasFestivosDominio\\DTos\\ValidacionFechaDTo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T01:52:56.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ContadorDiasFestivosContext.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\ApiDiasFestivosContext\\Persistencias\\ContadorDiasFestivosContext.cs",
               "RelativeDocumentMoniker": "..\\ApiDiasFestivosContext\\Persistencias\\ContadorDiasFestivosContext.cs",
               "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\ApiDiasFestivosContext\\Persistencias\\ContadorDiasFestivosContext.cs",
               "RelativeToolTip": "..\\ApiDiasFestivosContext\\Persistencias\\ContadorDiasFestivosContext.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAA3wB8AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-04T03:29:32.272Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "FestivosDTos.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\ApiDiasFestivosDominio\\DTos\\FestivosDTos.cs",
+              "RelativeDocumentMoniker": "..\\ApiDiasFestivosDominio\\DTos\\FestivosDTos.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\ApiDiasFestivosDominio\\DTos\\FestivosDTos.cs",
+              "RelativeToolTip": "..\\ApiDiasFestivosDominio\\DTos\\FestivosDTos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T22:06:59.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IpaisRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\apidiasfestivosCore\\repositorios\\IpaisRepositorio.cs",
+              "RelativeDocumentMoniker": "..\\apidiasfestivosCore\\repositorios\\IpaisRepositorio.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\apidiasfestivosCore\\repositorios\\IpaisRepositorio.cs",
+              "RelativeToolTip": "..\\apidiasfestivosCore\\repositorios\\IpaisRepositorio.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T01:20:16.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITipoFestivoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\apidiasfestivosCore\\repositorios\\ITipoFestivoRepositorio.cs",
+              "RelativeDocumentMoniker": "..\\apidiasfestivosCore\\repositorios\\ITipoFestivoRepositorio.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\apidiasfestivosCore\\repositorios\\ITipoFestivoRepositorio.cs",
+              "RelativeToolTip": "..\\apidiasfestivosCore\\repositorios\\ITipoFestivoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T01:20:43.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IpaisServicio.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\apidiasfestivosCore\\servicios\\IpaisServicio.cs",
+              "RelativeDocumentMoniker": "..\\apidiasfestivosCore\\servicios\\IpaisServicio.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\apidiasfestivosCore\\servicios\\IpaisServicio.cs",
+              "RelativeToolTip": "..\\apidiasfestivosCore\\servicios\\IpaisServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T15:38:52.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITipoFestivoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\apidiasfestivosCore\\servicios\\ITipoFestivoServicio.cs",
+              "RelativeDocumentMoniker": "..\\apidiasfestivosCore\\servicios\\ITipoFestivoServicio.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\apidiasfestivosCore\\servicios\\ITipoFestivoServicio.cs",
+              "RelativeToolTip": "..\\apidiasfestivosCore\\servicios\\ITipoFestivoServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T22:35:20.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TipoFestivo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\ApiDiasFestivosDominio\\TipoFestivo.cs",
+              "RelativeDocumentMoniker": "..\\ApiDiasFestivosDominio\\TipoFestivo.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\ApiDiasFestivosDominio\\TipoFestivo.cs",
+              "RelativeToolTip": "..\\ApiDiasFestivosDominio\\TipoFestivo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T03:25:04.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "ApiDiasFestivosDominio.csproj",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\ApiDiasFestivosDominio\\ApiDiasFestivosDominio.csproj",
               "RelativeDocumentMoniker": "..\\ApiDiasFestivosDominio\\ApiDiasFestivosDominio.csproj",
@@ -77,19 +271,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TipoFestivo.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\ApiDiasFestivosDominio\\TipoFestivo.cs",
-              "RelativeDocumentMoniker": "..\\ApiDiasFestivosDominio\\TipoFestivo.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\ApiDiasFestivosDominio\\TipoFestivo.cs",
-              "RelativeToolTip": "..\\ApiDiasFestivosDominio\\TipoFestivo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-04T03:25:04.202Z"
+              "DocumentIndex": 17,
+              "Title": "Presentacion.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\ApiDiasFestivos\\Presentacion.csproj",
+              "RelativeDocumentMoniker": "Presentacion.csproj",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\ApiDiasFestivos\\Presentacion.csproj",
+              "RelativeToolTip": "Presentacion.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-22T18:00:58.463Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
+              "Title": "ApiDiasFestivosInfraestructura.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\ApiDiasFestivosContext\\ApiDiasFestivosInfraestructura.csproj",
+              "RelativeDocumentMoniker": "..\\ApiDiasFestivosContext\\ApiDiasFestivosInfraestructura.csproj",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\ApiDiasFestivosContext\\ApiDiasFestivosInfraestructura.csproj",
+              "RelativeToolTip": "..\\ApiDiasFestivosContext\\ApiDiasFestivosInfraestructura.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-04T03:31:05.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Pais.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\ApiDiasFestivosDominio\\Pais.cs",
               "RelativeDocumentMoniker": "..\\ApiDiasFestivosDominio\\Pais.cs",
@@ -101,19 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Festivo.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\ApiDiasFestivosDominio\\Festivo.cs",
-              "RelativeDocumentMoniker": "..\\ApiDiasFestivosDominio\\Festivo.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\ApiDiasFestivosDominio\\Festivo.cs",
-              "RelativeToolTip": "..\\ApiDiasFestivosDominio\\Festivo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-04T03:21:38.516Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\ApiDiasFestivos\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -125,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 19,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\sebastian_prog\\Herramientas _3\\ApiDiasFestivos\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WeatherForecast.cs",

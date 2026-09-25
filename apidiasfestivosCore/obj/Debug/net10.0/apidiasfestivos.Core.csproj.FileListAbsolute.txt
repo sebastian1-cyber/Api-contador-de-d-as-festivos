@@ -1,0 +1,16 @@
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\apidiasfestivosCore\bin\Debug\net10.0\apidiasfestivos.Core.deps.json
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\apidiasfestivosCore\bin\Debug\net10.0\apidiasfestivos.Core.dll
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\apidiasfestivosCore\bin\Debug\net10.0\apidiasfestivos.Core.pdb
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\apidiasfestivosCore\bin\Debug\net10.0\ApiDiasFestivosDominio.dll
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\apidiasfestivosCore\bin\Debug\net10.0\ApiDiasFestivosDominio.pdb
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\apidiasfestivosCore\obj\Debug\net10.0\apidiasfestivos.Core.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\apidiasfestivosCore\obj\Debug\net10.0\apidiasfestivos.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\apidiasfestivosCore\obj\Debug\net10.0\apidiasfestivos.Core.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\apidiasfestivosCore\obj\Debug\net10.0\apidiasfestivos.Core.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\apidiasfestivosCore\obj\Debug\net10.0\apidiasfestivos.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\apidiasfestivosCore\obj\Debug\net10.0\apidiasfestivos.Core.sourcelink.json
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\apidiasfestivosCore\obj\Debug\net10.0\apidiasf.8421CDAC.Up2Date
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\apidiasfestivosCore\obj\Debug\net10.0\apidiasfestivos.Core.dll
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\apidiasfestivosCore\obj\Debug\net10.0\refint\apidiasfestivos.Core.dll
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\apidiasfestivosCore\obj\Debug\net10.0\apidiasfestivos.Core.pdb
+C:\Users\user\OneDrive\Desktop\sebastian_prog\Herramientas _3\apidiasfestivosCore\obj\Debug\net10.0\ref\apidiasfestivos.Core.dll

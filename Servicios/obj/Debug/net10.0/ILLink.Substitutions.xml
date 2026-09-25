@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="preesentacion">
+    <resource name="FSharpSignatureData.preesentacion" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.preesentacion" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.preesentacion" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.preesentacion" action="remove"></resource>
+    <resource name="FSharpOptimizationData.preesentacion" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.preesentacion" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.preesentacion" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.preesentacion" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.preesentacion" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.preesentacion" action="remove"></resource>
+  </assembly>
+</linker>

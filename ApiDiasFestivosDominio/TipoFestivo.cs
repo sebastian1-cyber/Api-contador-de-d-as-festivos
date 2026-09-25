@@ -7,7 +7,7 @@ namespace ApiDiasFestivosDominio
 {
 
     [Table("TipoFestivo")]
-    public class TipoFestivo
+    public class    TipoFestivo
 
     {
         [Column("Id")]

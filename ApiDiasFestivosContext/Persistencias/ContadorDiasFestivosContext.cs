@@ -20,7 +20,7 @@ namespace ApiDiasFestivosInfraestructura.Persistencias
 
             constructor.Entity<TipoFestivo>(entidadTipoFestivos =>
             {
-                entidadTipoFestivos.HasKey(e => e.Id);
+                entidadTipoFestivos.HasKey(e => e.Id);      
                 entidadTipoFestivos.HasIndex(e => e.Tipo).IsUnique();
             }
               );
@@ -29,7 +29,7 @@ namespace ApiDiasFestivosInfraestructura.Persistencias
             {
                 entidadPais.HasKey(e => e.Id);
                 entidadPais.HasIndex(e => e.Nombre).IsUnique();
-            });
+            }); 
                 
 
             constructor.Entity<Festivo>()

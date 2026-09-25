@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="../ApiDiasFestivosContext/ApiDiasFestivosInfraestructura.csproj" />
+  <Project Path="../apidiasfestivosCore/apidiasfestivos.Core.csproj" Id="2c7e4e38-8cc4-480a-b2d9-06b1abecc169" />
   <Project Path="../ApiDiasFestivosDominio/ApiDiasFestivosDominio.csproj" />
-  <Project Path="ApiDiasFestivos.csproj" />
+  <Project Path="Presentacion.csproj" />
 </Solution>
